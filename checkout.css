@@ -1,0 +1,11 @@
+.btn-primary {
+    border: 0px;
+    color: white;
+    background-color: #D44340;
+  }
+
+.btn-primary:hover {
+    Color:var(--red);
+    background-color:white;
+    border:1px solid #D44340;
+
